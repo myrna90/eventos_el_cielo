@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/myrna90/eventos_el_cielo.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/myrna90/eventos_el_cielo.git/static/js/main.8eaa4214.chunk.js",
+    "main.js.map": "/myrna90/eventos_el_cielo.git/static/js/main.8eaa4214.chunk.js.map",
+    "runtime-main.js": "/myrna90/eventos_el_cielo.git/static/js/runtime-main.5073e3be.js",
+    "runtime-main.js.map": "/myrna90/eventos_el_cielo.git/static/js/runtime-main.5073e3be.js.map",
+    "static/js/2.3236ccb9.chunk.js": "/myrna90/eventos_el_cielo.git/static/js/2.3236ccb9.chunk.js",
+    "static/js/2.3236ccb9.chunk.js.map": "/myrna90/eventos_el_cielo.git/static/js/2.3236ccb9.chunk.js.map",
+    "index.html": "/myrna90/eventos_el_cielo.git/index.html",
+    "precache-manifest.77303d7b8eacc7cc3faa956b64075f7c.js": "/myrna90/eventos_el_cielo.git/precache-manifest.77303d7b8eacc7cc3faa956b64075f7c.js",
+    "service-worker.js": "/myrna90/eventos_el_cielo.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/myrna90/eventos_el_cielo.git/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5073e3be.js",
+    "static/js/2.3236ccb9.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.8eaa4214.chunk.js"
+  ]
+}
